@@ -25,8 +25,8 @@ The project aims to:
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/technical-indicator-clustering.git
-cd technical-indicator-clustering
+git clone https://github.com/jhontd03/ClusteringFilterFeatures.git
+cd ClusteringFilterFeatures
 pip install -r requirements.txt
 ```
 
